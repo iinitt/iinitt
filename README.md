@@ -27,3 +27,5 @@ init=/sbin/iinitt
 
 # wiki
 https://iinitt.nekoweb.org/
+
+note: iinitt's developing process will continue from https://github.com/ilkayBedrock/iinitt. this is a mirror organization which additionally contains misselencius things like logos etc.
